@@ -1,1 +1,5 @@
-# Parcial-2
+# ESTRUCTURA DE DATOS
+
+## SEGUNDO PARCIAL
+
+- [Cuadro comparativo]()
