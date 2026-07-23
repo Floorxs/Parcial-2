@@ -2,4 +2,4 @@
 
 ## SEGUNDO PARCIAL
 
-- [Cuadro comparativo]()
+- [Cuadro comparativo](https://github.com/Floorxs/Parcial-2/blob/main/Tabla%20comparativa.pdf)
