@@ -7,5 +7,5 @@
 - [Lista Enlazada](https://github.com/Floorxs/Parcial-2/blob/main/ListaEnlazada)
 - [Lista Enlazada Básica](https://github.com/Floorxs/Parcial-2/blob/main/ListaEnlazadaBasica.java)
 - [Menú](https://github.com/Floorxs/Parcial-2/blob/main/Menu.java)
-- [Nodo]()
+- [Nodo](https://github.com/Floorxs/Parcial-2/blob/main/Nodo.java)
 - [Principal Lista Enlazada]()
